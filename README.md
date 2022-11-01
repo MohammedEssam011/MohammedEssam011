@@ -8,26 +8,24 @@
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
       
-[<img src="https://img.icons8.com/bubbles/100/undefined/twitter-squared.png"/>][twitter]
-[<img src="https://img.icons8.com/clouds/100/000000/youtube.png"/>][Youtube] 
+[<img src="https://img.icons8.com/bubbles/100/undefined/twitter-squared.png"/>](https://twitter.com/Mohamed02081891?t=cyemHqzI8wDY15HL1zmz-A&s=35)
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png"/>](https://www.instagram.com/_messam0_/)
-[<img src="https://img.icons8.com/bubbles/100/4a90e2/facebook-new.png" />][Facebook]
-[<img src="https://img.icons8.com/clouds/100/000000/link.png"/>][Portfolio]
   
 <br />
 <hr />
 
   <b><i>Where I write blogs, and share my knowledge</i></b>
   <br>
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+
 [<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white"/>][Dev]
   <hr />
   
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 
--  I'm interested in Reactjs, Nodejs development, machine learning and computer vision.
--  I love playing cricket and listening songs.
+-  I'm interested in machine learning, computer vision, Deep learning, MySQL,SQl , python Backend ,problem solvings ,Data Structure and Algorithms.
+-  I love playing Football and listening Quran Kareem.
 <hr />
 
  ### **Tools and Technology I Knows.**
