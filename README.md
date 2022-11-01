@@ -8,7 +8,7 @@
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
       
-[<img src="https://img.icons8.com/bubbles/100/undefined/twitter-squared.png"/>](https://twitter.com/Mohamed02081891?t=cyemHqzI8wDY15HL1zmz-A&s=35)
+[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>](https://twitter.com/Mohamed02081891?t=cyemHqzI8wDY15HL1zmz-A&s=35)
 [<img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png"/>](https://www.instagram.com/_messam0_/)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
   
